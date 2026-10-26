@@ -33,3 +33,4 @@ Open `http://localhost:8501` in your browser.
 ## 📖 Detailed Documentation
 For comprehensive technical details, data preprocessing steps, feature importance weights, hyperparameter tuning, and architectural diagrams, refer to:
 👉 **[PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)**
+Maintained by Bhumika
